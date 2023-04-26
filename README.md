@@ -1,6 +1,7 @@
 <div align=center>
 <img src = "inst/epi_logo.png" width = 40% height = 60%>
-</div>   
+</div>  
+
 # scEpiTools
 
 A database to comprehensively interrogate analytic tools for single-cell epigenomic data, containing comprehensive collection and detailed annotation of 553 articles. You can access our database through http://health.tsinghua.edu.cn/scepitools.
