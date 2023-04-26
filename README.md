@@ -11,6 +11,7 @@ The abundance of tools available for single-cell epigenomic data analysis poses 
 
 ## Directory structure
 - inst - figures used to initialize this repository
+- data - part of data for plotting the figures
 - plot - source code for plotting figures in the main manuscript and supplementary information
 
 ## Requiements:  
