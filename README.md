@@ -24,7 +24,7 @@ The abundance of tools available for single-cell epigenomic data analysis poses 
 
 ## Data
 
-The table of the information of the 553 articles can be downloaded [here](http://health.tsinghua.edu.cn/scepitools/help/scepitools_data.tsv).
+The table of the information of the 553 articles can be downloaded [here](http://health.tsinghua.edu.cn/scepitools/download/scepitools_data.tsv).
 
 
 ## About 
