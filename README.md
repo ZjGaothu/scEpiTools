@@ -13,19 +13,18 @@ The abundance of tools available for single-cell epigenomic data analysis poses 
 - inst - figures used to initialize this repository
 - plot - source code for plotting figures in the main manuscript and supplementary information
 
-
 ## Requiements:  
 1. Python 3.8
 2. Packages:  
-    2.1 numpy (1.22.4)
-    2.2 json5 (0.9.6)
-    2.3 matplotlib (3.5.3)
-    2.4 seaborn (0.11.0)
-    2.5 pandas (1.4.4)
+    - 2.1 numpy (1.22.4)
+    - 2.2 json5 (0.9.6)
+    - 2.3 matplotlib (3.5.3)
+    - 2.4 seaborn (0.11.0)
+    - 2.5 pandas (1.4.4)
 
 ## Data
 
-The table of the information of the 553 articles can be downloaded [here](http://health.tsinghua.edu.cn/scepitools/help/data.tsv).
+The table of the information of the 553 articles can be downloaded [here](http://health.tsinghua.edu.cn/scepitools/help/scepitools_data.tsv).
 
 
 ## About 
