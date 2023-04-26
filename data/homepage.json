@@ -1,0 +1,1102 @@
+{
+    "Journal": [
+        {
+            "label": "BioRxiv",
+            "value": 119
+        },
+        {
+            "label": "Nature Communications",
+            "value": 43
+        },
+        {
+            "label": "Genome Biology",
+            "value": 36
+        },
+        {
+            "label": "Bioinformatics",
+            "value": 30
+        },
+        {
+            "label": "Nature Biotechnology",
+            "value": 30
+        },
+        {
+            "label": "Nature Methods",
+            "value": 21
+        },
+        {
+            "label": "Nature",
+            "value": 21
+        },
+        {
+            "label": "Nucleic Acids Research",
+            "value": 18
+        },
+        {
+            "label": "Cell",
+            "value": 15
+        },
+        {
+            "label": "Nature Genetics",
+            "value": 14
+        },
+        {
+            "label": "Briefings in Bioinformatics",
+            "value": 14
+        },
+        {
+            "label": "PLOS Computational Biology",
+            "value": 11
+        },
+        {
+            "label": "Nature Protocols",
+            "value": 11
+        },
+        {
+            "label": "Genome Research",
+            "value": 11
+        },
+        {
+            "label": "Science",
+            "value": 10
+        },
+        {
+            "label": "Cell Reports",
+            "value": 8
+        },
+        {
+            "label": "Nature Reviews Genetics",
+            "value": 7
+        },
+        {
+            "label": "PNAS",
+            "value": 6
+        },
+        {
+            "label": "Cell Research",
+            "value": 6
+        },
+        {
+            "label": "Science Advances",
+            "value": 5
+        },
+        {
+            "label": "Molecular Cell",
+            "value": 5
+        },
+        {
+            "label": "Nature Machine Intelligence",
+            "value": 4
+        },
+        {
+            "label": "Trends in Genetics",
+            "value": 4
+        },
+        {
+            "label": "Computational and Structural Biotechnology Journal",
+            "value": 4
+        },
+        {
+            "label": "eLife",
+            "value": 4
+        },
+        {
+            "label": "Nature Cell Biology",
+            "value": 4
+        },
+        {
+            "label": "BMC Bioinformatics",
+            "value": 3
+        },
+        {
+            "label": "Frontiers in Genetics",
+            "value": 3
+        },
+        {
+            "label": "Journal of Computational Biology",
+            "value": 3
+        },
+        {
+            "label": "Genomics, Proteomics & Bioinformatics",
+            "value": 3
+        },
+        {
+            "label": "Trends in Biotechnology",
+            "value": 3
+        },
+        {
+            "label": "Biomolecules",
+            "value": 2
+        },
+        {
+            "label": "Cell Reports Methods",
+            "value": 2
+        },
+        {
+            "label": "Cell Genomics",
+            "value": 2
+        },
+        {
+            "label": "Experimental & Molecular Medicine",
+            "value": 2
+        },
+        {
+            "label": "Current Opinion in Genetics & Development",
+            "value": 2
+        },
+        {
+            "label": "Scientific Reports",
+            "value": 2
+        },
+        {
+            "label": "Methods",
+            "value": 2
+        },
+        {
+            "label": "Nature Structural & Molecular Biology",
+            "value": 2
+        },
+        {
+            "label": "Communications Biology",
+            "value": 2
+        },
+        {
+            "label": "Stem Cell Reports",
+            "value": 2
+        },
+        {
+            "label": "STAR Protocols",
+            "value": 1
+        },
+        {
+            "label": "PLOS ONE",
+            "value": 1
+        },
+        {
+            "label": "Science Bulletin",
+            "value": 1
+        },
+        {
+            "label": "NAR Genomics and Bioinformatics",
+            "value": 1
+        },
+        {
+            "label": "Briefings in bioinformatics",
+            "value": 1
+        },
+        {
+            "label": "Molecular Metabolism",
+            "value": 1
+        },
+        {
+            "label": "International Conference on Research in Computational Molecular Biology",
+            "value": 1
+        },
+        {
+            "label": "Nature Computational Science",
+            "value": 1
+        },
+        {
+            "label": "Genes",
+            "value": 1
+        },
+        {
+            "label": "Proceedings of the 11th ACM International Conference on Bioinformatics, Computational Biology and Health Informatics",
+            "value": 1
+        },
+        {
+            "label": "Clinical and Translational Medicine",
+            "value": 1
+        },
+        {
+            "label": "Neuron",
+            "value": 1
+        },
+        {
+            "label": "Interdisciplinary Sciences: Computational Life Sciences",
+            "value": 1
+        },
+        {
+            "label": "Journal of Clinical Genomics",
+            "value": 1
+        },
+        {
+            "label": "Cell Systems",
+            "value": 1
+        },
+        {
+            "label": "F1000Research",
+            "value": 1
+        },
+        {
+            "label": "Nature Reviews Nephrology",
+            "value": 1
+        },
+        {
+            "label": "Annual Review of Genomics and Human Genetics",
+            "value": 1
+        },
+        {
+            "label": "Frontiers in Cell and Developmental Biology",
+            "value": 1
+        },
+        {
+            "label": "Current Opinion in Systems Biology",
+            "value": 1
+        },
+        {
+            "label": "Statistical Science",
+            "value": 1
+        },
+        {
+            "label": "Proteomics",
+            "value": 1
+        },
+        {
+            "label": "RECOMB 2022",
+            "value": 1
+        },
+        {
+            "label": "Patterns",
+            "value": 1
+        },
+        {
+            "label": "arXiv",
+            "value": 1
+        },
+        {
+            "label": "Cell Stem Cell",
+            "value": 1
+        },
+        {
+            "label": "Advanced Biosystems",
+            "value": 1
+        },
+        {
+            "label": "The Annual Review of Biomedical Data Science",
+            "value": 1
+        },
+        {
+            "label": "Topological Data Analysis",
+            "value": 1
+        },
+        {
+            "label": "BMC Genomics",
+            "value": 1
+        },
+        {
+            "label": "Algorithms Bioinform",
+            "value": 1
+        },
+        {
+            "label": "Nature Aging",
+            "value": 1
+        },
+        {
+            "label": "KDD",
+            "value": 1
+        },
+        {
+            "label": "Current Opinion in Immunology",
+            "value": 1
+        },
+        {
+            "label": "Frontiers in Molecular Biosciences",
+            "value": 1
+        },
+        {
+            "label": "Nature Neuroscience",
+            "value": 1
+        },
+        {
+            "label": "Nature Medicine",
+            "value": 1
+        },
+        {
+            "label": "iScience",
+            "value": 1
+        },
+        {
+            "label": "Histochemistry and Cell Biology",
+            "value": 1
+        },
+        {
+            "label": "Gastroenterology",
+            "value": 1
+        },
+        {
+            "label": "Cell Stem Cell ",
+            "value": 1
+        },
+        {
+            "label": "Immunity",
+            "value": 1
+        },
+        {
+            "label": "Circulation Research",
+            "value": 1
+        },
+        {
+            "label": "Molecular Systems Biology",
+            "value": 1
+        },
+        {
+            "label": "Science Immunology",
+            "value": 1
+        },
+        {
+            "label": "Briefings in Functional Genomics",
+            "value": 1
+        },
+        {
+            "label": "NeurIPS 2021",
+            "value": 1
+        },
+        {
+            "label": "Nucleus",
+            "value": 1
+        },
+        {
+            "label": "Bioessays",
+            "value": 1
+        },
+        {
+            "label": "Nature Plants",
+            "value": 1
+        },
+        {
+            "label": "Advanced Science",
+            "value": 1
+        },
+        {
+            "label": "Genes to Cells",
+            "value": 1
+        },
+        {
+            "label": "Epigenetics",
+            "value": 1
+        },
+        {
+            "label": "Genes & Development",
+            "value": 1
+        },
+        {
+            "label": "Cell & Bioscience",
+            "value": 1
+        },
+        {
+            "label": "Journal of Genetics and Genomics",
+            "value": 1
+        },
+        {
+            "label": "Biophysical Journal",
+            "value": 1
+        }
+    ],
+    "Methodology": [
+        {
+            "label": "not applicable",
+            "value": 335
+        },
+        {
+            "label": "variational autoencoder",
+            "value": 24
+        },
+        {
+            "label": "non-negative matrix factorization",
+            "value": 11
+        },
+        {
+            "label": "autoencoder",
+            "value": 10
+        },
+        {
+            "label": "convolutional neural network",
+            "value": 9
+        },
+        {
+            "label": "multi-layer perception",
+            "value": 7
+        },
+        {
+            "label": "k-nearest neighbor",
+            "value": 7
+        },
+        {
+            "label": "random walk",
+            "value": 7
+        },
+        {
+            "label": "canonical correlation analysis",
+            "value": 6
+        },
+        {
+            "label": "transfer learning",
+            "value": 5
+        },
+        {
+            "label": "bayesian hierarchical method",
+            "value": 4
+        },
+        {
+            "label": "principal component analysis",
+            "value": 4
+        },
+        {
+            "label": "matrix factorization",
+            "value": 4
+        },
+        {
+            "label": "ensemble learning",
+            "value": 4
+        },
+        {
+            "label": "generative adversarial network",
+            "value": 3
+        },
+        {
+            "label": "gaussian mixture model",
+            "value": 3
+        },
+        {
+            "label": "linear regression",
+            "value": 3
+        },
+        {
+            "label": "expectation-maximization algorithm",
+            "value": 3
+        },
+        {
+            "label": "tensor decomposition",
+            "value": 3
+        },
+        {
+            "label": "hierarchical clustering",
+            "value": 3
+        },
+        {
+            "label": "topic model",
+            "value": 3
+        },
+        {
+            "label": "bayesian inference",
+            "value": 3
+        },
+        {
+            "label": "xgboost",
+            "value": 2
+        },
+        {
+            "label": "k-mediods",
+            "value": 2
+        },
+        {
+            "label": "linear discriminant analysis",
+            "value": 2
+        },
+        {
+            "label": "unsupervised learning",
+            "value": 2
+        },
+        {
+            "label": "graph learning",
+            "value": 2
+        },
+        {
+            "label": "maximum likelihood estimator",
+            "value": 2
+        },
+        {
+            "label": "graph convolutional network",
+            "value": 2
+        },
+        {
+            "label": "random forest",
+            "value": 2
+        },
+        {
+            "label": "adversarial network",
+            "value": 2
+        },
+        {
+            "label": "manifold alignment",
+            "value": 2
+        },
+        {
+            "label": "co-clustering",
+            "value": 2
+        },
+        {
+            "label": "matrix tri-factorization",
+            "value": 2
+        },
+        {
+            "label": "graph neural network",
+            "value": 2
+        },
+        {
+            "label": "parametric statistical method",
+            "value": 2
+        },
+        {
+            "label": "optimal transport",
+            "value": 2
+        },
+        {
+            "label": "linear convolution",
+            "value": 2
+        },
+        {
+            "label": "deep generative model",
+            "value": 2
+        },
+        {
+            "label": "gated recurrent network",
+            "value": 2
+        },
+        {
+            "label": "contrastive learning",
+            "value": 2
+        },
+        {
+            "label": "probabilistic principal component analysis",
+            "value": 1
+        },
+        {
+            "label": "starspace (kmer embedding)",
+            "value": 1
+        },
+        {
+            "label": "probabilistic generative model",
+            "value": 1
+        },
+        {
+            "label": "bayesian neural network",
+            "value": 1
+        },
+        {
+            "label": "weighted-nearest neighbor",
+            "value": 1
+        },
+        {
+            "label": "gaussian process latent variable model",
+            "value": 1
+        },
+        {
+            "label": "network diffusion",
+            "value": 1
+        },
+        {
+            "label": "graphical lasso",
+            "value": 1
+        },
+        {
+            "label": "unsupervised manifold alignment algorithm",
+            "value": 1
+        },
+        {
+            "label": "riemannian geometry and algebraic topology",
+            "value": 1
+        },
+        {
+            "label": "eigenvalue decomposition",
+            "value": 1
+        },
+        {
+            "label": "k-means",
+            "value": 1
+        },
+        {
+            "label": "gaussian graphical model",
+            "value": 1
+        },
+        {
+            "label": "possion distribution",
+            "value": 1
+        },
+        {
+            "label": "sampling",
+            "value": 1
+        },
+        {
+            "label": "binary segmentation",
+            "value": 1
+        },
+        {
+            "label": "u-net",
+            "value": 1
+        },
+        {
+            "label": "discrete fourier transformation",
+            "value": 1
+        },
+        {
+            "label": "adversarial autoencoder",
+            "value": 1
+        },
+        {
+            "label": "encoder-decoder-discriminator",
+            "value": 1
+        },
+        {
+            "label": "adaptive graph learning",
+            "value": 1
+        },
+        {
+            "label": "possion model",
+            "value": 1
+        },
+        {
+            "label": "metric learning",
+            "value": 1
+        },
+        {
+            "label": "gromov-asserstein optimal transport",
+            "value": 1
+        },
+        {
+            "label": "mutual nearest neighbors",
+            "value": 1
+        },
+        {
+            "label": "probabilistic graphical model",
+            "value": 1
+        },
+        {
+            "label": "optmatch pair",
+            "value": 1
+        },
+        {
+            "label": "bayesian gaussian mixture",
+            "value": 1
+        },
+        {
+            "label": "hierarchical graph clustering",
+            "value": 1
+        },
+        {
+            "label": "structural entropy",
+            "value": 1
+        },
+        {
+            "label": "hidden markov model",
+            "value": 1
+        },
+        {
+            "label": "gradient boosting machine",
+            "value": 1
+        },
+        {
+            "label": "self-knowledge distiller model",
+            "value": 1
+        },
+        {
+            "label": "probabilistic tensor decomposition",
+            "value": 1
+        },
+        {
+            "label": "nonparametric model",
+            "value": 1
+        },
+        {
+            "label": "linear mixture model",
+            "value": 1
+        },
+        {
+            "label": "reference mapping",
+            "value": 1
+        },
+        {
+            "label": "global graph diffusion algorithm",
+            "value": 1
+        },
+        {
+            "label": "pseudoalignment",
+            "value": 1
+        },
+        {
+            "label": "stochastic process model",
+            "value": 1
+        },
+        {
+            "label": "probabilistic programming",
+            "value": 1
+        },
+        {
+            "label": "dynamic network",
+            "value": 1
+        },
+        {
+            "label": "regression model",
+            "value": 1
+        },
+        {
+            "label": "hidden semi-markov models",
+            "value": 1
+        },
+        {
+            "label": "markov chain monte carlo",
+            "value": 1
+        },
+        {
+            "label": "p-value computation and fdr control",
+            "value": 1
+        },
+        {
+            "label": "minimum spanning tree",
+            "value": 1
+        },
+        {
+            "label": "minibatch-uot",
+            "value": 1
+        },
+        {
+            "label": "markov chain",
+            "value": 1
+        },
+        {
+            "label": "leiden clustering",
+            "value": 1
+        },
+        {
+            "label": "permutation test",
+            "value": 1
+        },
+        {
+            "label": "causal discovery from nonstationary/heterogeneous data",
+            "value": 1
+        },
+        {
+            "label": "restriction free cloning",
+            "value": 1
+        },
+        {
+            "label": "hypergraph representation learning",
+            "value": 1
+        },
+        {
+            "label": "negative binomial distribution model",
+            "value": 1
+        },
+        {
+            "label": "sliding window approach",
+            "value": 1
+        },
+        {
+            "label": "bayesian inference framework",
+            "value": 1
+        },
+        {
+            "label": "fractal monte carlo sampling",
+            "value": 1
+        },
+        {
+            "label": "local sensitive hashing",
+            "value": 1
+        },
+        {
+            "label": "self-representation smoothing model",
+            "value": 1
+        },
+        {
+            "label": "graph convolution",
+            "value": 1
+        },
+        {
+            "label": "multidimensional scaling",
+            "value": 1
+        },
+        {
+            "label": "bayesian estimation",
+            "value": 1
+        },
+        {
+            "label": "cubic lattice representation",
+            "value": 1
+        },
+        {
+            "label": "topological data analysis",
+            "value": 1
+        },
+        {
+            "label": "recurrence plots",
+            "value": 1
+        },
+        {
+            "label": "gini coefficient",
+            "value": 1
+        },
+        {
+            "label": "zero-inflated model",
+            "value": 1
+        },
+        {
+            "label": "hurdle model",
+            "value": 1
+        },
+        {
+            "label": "manifold based optimization",
+            "value": 1
+        },
+        {
+            "label": "node2vec",
+            "value": 1
+        },
+        {
+            "label": "bi-clustering",
+            "value": 1
+        },
+        {
+            "label": "kernel principal component analysis",
+            "value": 1
+        },
+        {
+            "label": "approximate nearest neighbors method",
+            "value": 1
+        },
+        {
+            "label": "graph-based method",
+            "value": 1
+        },
+        {
+            "label": "bayesian model",
+            "value": 1
+        },
+        {
+            "label": "catboost",
+            "value": 1
+        },
+        {
+            "label": "hierarchical mixture",
+            "value": 1
+        },
+        {
+            "label": "lightgbm",
+            "value": 1
+        },
+        {
+            "label": "linear model",
+            "value": 1
+        },
+        {
+            "label": "constrained linear model",
+            "value": 1
+        },
+        {
+            "label": "transformer",
+            "value": 1
+        },
+        {
+            "label": "maximum mean discrepancy",
+            "value": 1
+        },
+        {
+            "label": "elastic model",
+            "value": 1
+        },
+        {
+            "label": "local alignment",
+            "value": 1
+        },
+        {
+            "label": "graph transformer network",
+            "value": 1
+        },
+        {
+            "label": "multi-view learning",
+            "value": 1
+        },
+        {
+            "label": "simpleppt",
+            "value": 1
+        },
+        {
+            "label": "eipigraph",
+            "value": 1
+        },
+        {
+            "label": "network refinement diffusion method",
+            "value": 1
+        },
+        {
+            "label": "co-optimal transport",
+            "value": 1
+        },
+        {
+            "label": "monovar",
+            "value": 1
+        },
+        {
+            "label": "conditional autoencoder",
+            "value": 1
+        },
+        {
+            "label": "steiner forest problem model",
+            "value": 1
+        },
+        {
+            "label": "submodular optimization",
+            "value": 1
+        },
+        {
+            "label": "adaptive elastic-net model",
+            "value": 1
+        },
+        {
+            "label": "variational inference",
+            "value": 1
+        },
+        {
+            "label": "robinson-foulds (rf) distance",
+            "value": 1
+        },
+        {
+            "label": "snapshot ensemble learning",
+            "value": 1
+        },
+        {
+            "label": "geographical spatial correlation measure",
+            "value": 1
+        },
+        {
+            "label": "unified probabilistic model f",
+            "value": 1
+        },
+        {
+            "label": "graph neural networks",
+            "value": 1
+        }
+    ],
+    "Tool": [
+        [
+            "sequencing technology & application",
+            "223"
+        ],
+        [
+            "dimensionality reduction",
+            "116"
+        ],
+        [
+            "multi-omics integration",
+            "91"
+        ],
+        [
+            "other",
+            "73"
+        ],
+        [
+            "review",
+            "62"
+        ],
+        [
+            "clustering",
+            "44"
+        ],
+        [
+            "regulatory network inference",
+            "38"
+        ],
+        [
+            "differential feature analysis",
+            "37"
+        ],
+        [
+            "imputation",
+            "31"
+        ],
+        [
+            "preprocessing",
+            "19"
+        ],
+        [
+            "single-omics integration",
+            "17"
+        ],
+        [
+            "cell type annotation",
+            "12"
+        ],
+        [
+            "cross-omics translation",
+            "11"
+        ],
+        [
+            "simulation",
+            "8"
+        ]
+    ],
+    "Year": [
+        {
+            "year": "2015",
+            "CAS": 5,
+            "CIS": 4,
+            "Hist": 3,
+            "Meth": 7,
+            "All": 16
+        },
+        {
+            "year": "2016",
+            "CAS": 9,
+            "CIS": 8,
+            "Hist": 5,
+            "Meth": 17,
+            "All": 29
+        },
+        {
+            "year": "2017",
+            "CAS": 22,
+            "CIS": 15,
+            "Hist": 7,
+            "Meth": 30,
+            "All": 54
+        },
+        {
+            "year": "2018",
+            "CAS": 48,
+            "CIS": 27,
+            "Hist": 13,
+            "Meth": 47,
+            "All": 96
+        },
+        {
+            "year": "2019",
+            "CAS": 78,
+            "CIS": 38,
+            "Hist": 20,
+            "Meth": 60,
+            "All": 149
+        },
+        {
+            "year": "2020",
+            "CAS": 126,
+            "CIS": 51,
+            "Hist": 27,
+            "Meth": 79,
+            "All": 210
+        },
+        {
+            "year": "2021",
+            "CAS": 206,
+            "CIS": 66,
+            "Hist": 40,
+            "Meth": 113,
+            "All": 330
+        },
+        {
+            "year": "2022",
+            "CAS": 343,
+            "CIS": 88,
+            "Hist": 53,
+            "Meth": 143,
+            "All": 506
+        },
+        {
+            "year": "2023",
+            "CAS": 377,
+            "CIS": 93,
+            "Hist": 57,
+            "Meth": 154,
+            "All": 553
+        }
+    ]
+}

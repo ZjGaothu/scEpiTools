@@ -1,0 +1,17 @@
+,method,cluster_key,metric,value,cluster_method
+0,EpiScanpy,,ARI,0.4450203134338908,louvain
+1,EpiScanpy,,AMI,0.6145655824904397,louvain
+2,EpiScanpy,,NMI,0.6191058493821179,louvain
+3,EpiScanpy,,Homo,0.6616604202595315,louvain
+4,Signac,,ARI,0.3921409955339683,louvain
+5,Signac,,AMI,0.5746785250104581,louvain
+6,Signac,,NMI,0.5798098250296625,louvain
+7,Signac,,Homo,0.6093151480022496,louvain
+8,SnapATAC,,ARI,0.4477459640007582,louvain
+9,SnapATAC,,AMI,0.6216396986893777,louvain
+10,SnapATAC,,NMI,0.6268310135628098,louvain
+11,SnapATAC,,Homo,0.6867253270448411,louvain
+12,scEpiEnsemble,,ARI,0.4834614671963715,louvain
+13,scEpiEnsemble,,AMI,0.6405050404211952,louvain
+14,scEpiEnsemble,,NMI,0.6450804722410042,louvain
+15,scEpiEnsemble,,Homo,0.6996302589478586,louvain
